@@ -1,5 +1,5 @@
 # Pong (July 2015)
-Pong game developed in C++ with SFML
+Two Player Pong game developed in C++ with SFML
 
 ## Project Description
 
