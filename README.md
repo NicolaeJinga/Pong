@@ -7,6 +7,10 @@ Two Player Pong game. Players control their pallets in order to prevent the ball
 
 ![](pong.gif)
 
+Slow-motion powerup: Ball speeds gradually slows down to almost 0 velocity and then immediately speeds up:
+
+![](pongslowmo.gif)
+
 ## Usage
 
 * Press Enter to Restart
