@@ -1,5 +1,5 @@
 # Pong (July 2015)
-Two Player Pong game developed in C++ with SFML
+Two Player Pong game developed in C++ with SFML. Rebuilt in August 2019 with SFML 2.5.1.
 
 ## Project Description
 
